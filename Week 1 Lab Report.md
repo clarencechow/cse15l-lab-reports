@@ -9,4 +9,4 @@ Install git on your computer by downloading the installer from the git website. 
 
 # Trying Some Commands
 
-After connecting to the remote server, you can try using some git commands, such as cd or cat. ![Image](https://github.com/clarencechow/cse15l-lab-reports/blob/main/commands_screenshot.png?raw=true) \nI used a "cd" command to change my directory to /home/linux/ieng6/cs15lwi23. Then I printed the current working directory using the "pwd" command.
+After connecting to the remote server, you can try using some git commands, such as cd or cat. I used a "cd" command to change my directory to /home/linux/ieng6/cs15lwi23. Then I printed the current working directory using the "pwd" command. ![Image](https://github.com/clarencechow/cse15l-lab-reports/blob/main/commands_screenshot.png?raw=true)
