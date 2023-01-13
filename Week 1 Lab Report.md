@@ -6,3 +6,8 @@ When VS Code is finished installing, open it from your files. VS Code should sho
 # Remotely Connecting
 
 Install git on your computer by downloading the installer from the git website. Make sure to keep git installing in Program Files, which is the default location. When I moved it to a different location VS Code was unable to find it. After downloading git, follow [these steps](https://stackoverflow.com/a/50527994) to set the default terminal on VS Code to git bash. On the git bash terminal, run the command "ssh [account name]@ieng6.ucsd.edu". Type "yes" to continue connecting and then type your password when prompted. Afterwards, the terminal should display this: ![Image](https://github.com/clarencechow/cse15l-lab-reports/blob/main/connecting_screenshot.png?raw=true)
+
+# Trying Some Commands
+
+After connecting to the remote server, you can try using some git commands, such as cd or cat. ![Image](https://github.com/clarencechow/cse15l-lab-reports/blob/main/commands_screenshot.png?raw=true) 
+I used a "cd" command to change my directory to /home/linux/ieng6/cs15lwi23. Then I printed the current working directory using the "pwd" command.
