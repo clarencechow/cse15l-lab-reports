@@ -9,4 +9,11 @@ Install git on your computer by downloading the installer from the git website. 
 
 # Trying Some Commands
 
-After connecting to the remote server, you can try using some git commands, such as cd or cat. I used a "cd" command to change my directory to /home/linux/ieng6/cs15lwi23. Then I printed the current working directory using the "pwd" command. ![Image](https://github.com/clarencechow/cse15l-lab-reports/blob/main/commands_screenshot.png?raw=true)
+After connecting to the remote server, you can try using some git commands, such as cd or cat. Some commands I tried are:  
+`cd` - command to change my directory  
+`pwd` - prints the current working directory
+![Image](https://github.com/clarencechow/cse15l-lab-reports/blob/main/commands_screenshot.png?raw=true)  
+Some other commands to try are:  
+`ls` - prints the files in the current directory, excluding hidden files  
+`ls -a` - prints the files in the current diretory, including hidden files  
+`cat /home/linux/ieng6/cs15lwi23/public/hello.txt` - prints the contents of the hello.txt file that should be in the your current directory
